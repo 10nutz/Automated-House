@@ -1,0 +1,20 @@
+﻿  app.cpp
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(45,20): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(53,20): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(60,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(79,16): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(123,20): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(130,20): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(137,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(156,16): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(200,20): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(207,20): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(214,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(233,16): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(277,20): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(284,20): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(291,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\IRoom.h(310,17): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\House.h(21,17): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\PCLP2\TEMA-2\TEMA-2\House.h(28,20): warning C4018: '<': signed/unsigned mismatch
+  TEMA-2.vcxproj -> E:\Calculatoare\Anul 1\PCLP2\TEMA-2\Debug\TEMA-2.exe
