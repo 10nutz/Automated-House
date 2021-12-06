@@ -1,1 +1,1 @@
-# Automatized-House
+# Automated-House
